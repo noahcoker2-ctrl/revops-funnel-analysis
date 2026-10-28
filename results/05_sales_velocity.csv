@@ -1,0 +1,4 @@
+segment,opps_per_quarter,win_rate,avg_won_acv,avg_cycle_days,velocity_per_day,actual_won_acv_per_quarter
+SMB,125.8,0.339,10194.0,28.3,15354.0,412875.0
+Mid-Market,95.0,0.228,32580.0,57.5,12272.0,610875.0
+Enterprise,42.5,0.148,127443.0,96.2,8353.0,732800.0

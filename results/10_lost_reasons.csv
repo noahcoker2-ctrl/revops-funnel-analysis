@@ -1,0 +1,17 @@
+lost_at_stage,lost_reason,deals,lost_acv,share_of_stage_losses
+Discovery,No need,175,8087600.0,0.371
+Discovery,No budget,111,4436200.0,0.235
+Discovery,Unresponsive,99,4288800.0,0.21
+Discovery,Timing,87,4411600.0,0.184
+Demo,Timing,93,3633800.0,0.288
+Demo,Unresponsive,87,3822100.0,0.269
+Demo,Product gap,82,3123000.0,0.254
+Demo,Competitor,61,1895000.0,0.189
+Proposal,Price,79,3431400.0,0.331
+Proposal,Competitor,70,2765800.0,0.293
+Proposal,No decision,64,2259200.0,0.268
+Proposal,Timing,26,740400.0,0.109
+Negotiation,Price,39,1276300.0,0.402
+Negotiation,Competitor,25,870400.0,0.258
+Negotiation,No decision,24,583800.0,0.247
+Negotiation,Legal / procurement,9,480600.0,0.093

@@ -1,0 +1,16 @@
+owner_id,owner_name,role,segment,region,start_date,end_date
+AE01,Avery Brooks,AE,Enterprise,AMER,2024-03-01,
+AE02,Camille Laurent,AE,Enterprise,EMEA,2023-09-01,
+AE03,Mei Tanaka,AE,Enterprise,APAC,2024-01-15,
+AE04,Sam Rivera,AE,Mid-Market,AMER,2023-06-01,
+AE05,Taylor Brooks,AE,Mid-Market,AMER,2025-07-01,
+AE06,Ines Moreau,AE,Mid-Market,EMEA,2024-02-01,
+AE07,Oliver Grant,AE,Mid-Market,EMEA,2024-05-01,
+AE08,Arjun Rao,AE,Mid-Market,APAC,2024-04-01,
+AE09,Casey Nguyen,AE,SMB,AMER,2024-08-01,
+AE10,Noemie Petit,AE,SMB,EMEA,2024-10-01,
+SD01,Riley Chen,SDR,,AMER,2024-01-01,
+SD02,Morgan Hayes,SDR,,AMER,2024-06-01,
+SD03,Lea Dubois,SDR,,EMEA,2024-03-01,
+SD04,Ben Fischer,SDR,,EMEA,2024-03-01,2026-06-30
+SD05,Priya Shah,SDR,,APAC,2024-09-01,

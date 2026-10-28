@@ -1,0 +1,13 @@
+segment,stage,closed_deals_that_reached_stage,historical_p_win,fixed_default_p_win
+SMB,Discovery,505,0.341,0.1
+SMB,Demo,378,0.455,0.25
+SMB,Proposal,273,0.63,0.5
+SMB,Negotiation,210,0.819,0.75
+Mid-Market,Discovery,344,0.23,0.1
+Mid-Market,Demo,248,0.319,0.25
+Mid-Market,Proposal,167,0.473,0.5
+Mid-Market,Negotiation,97,0.814,0.75
+Enterprise,Discovery,158,0.133,0.1
+Enterprise,Demo,90,0.233,0.25
+Enterprise,Proposal,60,0.35,0.5
+Enterprise,Negotiation,31,0.677,0.75

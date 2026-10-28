@@ -1,0 +1,4 @@
+region,quota,won_to_date,open_pipeline,forecast_fixed_default,forecast_historical,attainment_fixed_default,attainment_historical,historical_minus_fixed
+AMER,1234000.0,271300.0,2027700.0,1026645.0,1077870.0,0.832,0.873,51225.0
+APAC,315000.0,91300.0,696100.0,332690.0,330355.0,1.056,1.049,-2335.0
+EMEA,884000.0,162000.0,1338700.0,615570.0,674278.0,0.696,0.763,58708.0

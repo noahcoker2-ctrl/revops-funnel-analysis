@@ -1,0 +1,16 @@
+name: verify
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install -r requirements.txt
+      # Re-run the SQL on the committed data and fail if any result differs from what's committed.
+      - run: python scripts/run_analysis.py > /dev/null
+      - run: git diff --exit-code results/
+      # Re-compute every headline metric in pandas and compare with the SQL.
+      - run: python scripts/verify_metrics.py
